@@ -1,0 +1,11 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.nav-main{
+    background-color: #EDEDED;
+}
+
+.active{
+    background-color: #cbf0ee;
+}
